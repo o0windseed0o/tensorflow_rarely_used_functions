@@ -19,6 +19,7 @@ an example showing taking a matrix as the scan input and recurrently change one 
   [1. 1. 1.]
   [1. 1. 1.]]]
   
+-----------------
   
 [[[0.]
   [0.]
@@ -36,7 +37,8 @@ an example showing taking a matrix as the scan input and recurrently change one 
   [3.]
   [3.]]]
   
-  
+-----------------
+
 [[[1. 1. 1. 0.]
   [1. 1. 1. 0.]
   [1. 1. 1. 0.]]
@@ -52,7 +54,8 @@ an example showing taking a matrix as the scan input and recurrently change one 
  [[1. 1. 1. 3.]
   [1. 1. 1. 3.]
   [1. 1. 1. 3.]]]
-  
+
+-----------------
   
 [[[[1. 1. 1.]
    [1. 1. 1.]
