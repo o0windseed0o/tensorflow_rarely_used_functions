@@ -1,7 +1,7 @@
 # tensorflow_scan_example
 an example showing taking a matrix as the scan input and recurrently change one piece of the matrix using input 
 
-# the output of this demo would be
+## the output of this demo would be
 
 [[[1. 1. 1.]
   [1. 1. 1.]
