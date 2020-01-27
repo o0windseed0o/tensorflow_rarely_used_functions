@@ -1,7 +1,7 @@
 # tensorflow_scan_example
 an example showing taking a matrix as the scan input and recurrently change one piece of the matrix using input 
 
-## the output of this demo would be
+## output
 
 [[[1. 1. 1.]
   [1. 1. 1.]
@@ -120,3 +120,12 @@ an example showing taking a matrix as the scan input and recurrently change one 
   [[1. 1. 1.]
    [1. 1. 1.]
    [1. 1. 1.]]]]
+   
+   # the dynamic mask example
+   change the input mask according to a given index so that some positions are set as zeros
+   
+   ## output
+  2
+  [1 1 1 0 0 0 0]
+  [1 1 0 0 0 0 0]
+  [0 0 1 0 0 0 0]
