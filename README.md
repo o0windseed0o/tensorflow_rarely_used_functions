@@ -1,1 +1,1 @@
-# tensorflow code block examples
+# tensorflow rarely used function code block examples
